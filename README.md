@@ -45,9 +45,9 @@ This application was created in conjunction with the DICODING course as practice
       yarn run dev
       ```
     - When use <strong>pnpm</strong>:
-    `bash
+    ```bash
     pnpm run dev
-    `
+    ```
     <hr/>
 
 ### System Requirements
